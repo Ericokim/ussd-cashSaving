@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "5d7a514b5d2c12c7449be042",
+    "Name": "John Doe",
+    "phone": "254700000001",
+    "pin": 2541,
+    "amount": 1000000
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be043",
+    "Name": "Kevin Smith",
+    "phone": "254700000002",
+    "pin": 2542,
+    "amount": 650000
+  },
+  {
+    "_id": "5d7a514b5d2c12c7449be044",
+    "Name": "Sasha Ryan",
+    "phone": "254700000003",
+    "pin": 2543,
+    "amount": 470000
+  }
+]
